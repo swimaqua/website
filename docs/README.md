@@ -20,7 +20,10 @@ Miramar, Wellington
 
 ## Contact
 
-**Bookings**: admin@somesite.com
+- [newtown enquiry](mailto:newtown@swimaqua.co.nz)
+- [miramar enquiry](mailto:miramar@swimaqua.co.nz)
+- [general enquiry](mailto:lynn@swimaqua.co.nz)
+
 
 **Jobs**: learn more [here](./JOBS.md)
 
