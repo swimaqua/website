@@ -4,19 +4,26 @@
 
 ![pool image](https://www.aquazone.co.nz/uploads/2/4/3/3/24337322/published/8954564.jpg?1586311195)
 
-## Info
+## Book Lesson
 
-coming soon
+Miramar
+Newtown
+Freyberg
+Kilbirnie
+
+(links to forms)
+
+## Pool Party
+
+[Book a party]() (form here)
+
+[More info](pool_party.md)
 
 
+## Holiday Programs
 
-## Booking
 
-## Location
-
-Miramar North School Pool
-23 Weka Street
-Miramar, Wellington
+[More info](holiday_program.md)
 
 ## Contact
 
@@ -27,4 +34,8 @@ Miramar, Wellington
 
 **Jobs**: learn more [here](./JOBS.md)
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfAZ6Y7dOz3N16WxOUdbhm2LHvE-erqndqpnUqVG89g8r8EHA/viewform?embedded=true" width="640" height="748" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+---
+
+## About us
+
+
