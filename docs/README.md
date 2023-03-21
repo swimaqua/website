@@ -15,7 +15,7 @@ Kilbirnie
 
 ## Pool Party
 
-[Book a party]() (form here)
+[Book a party](https://forms.gle/nYZDbhWNna7omWNu9)
 
 [More info](pool_party.md)
 
